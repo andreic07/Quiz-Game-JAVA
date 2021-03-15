@@ -127,7 +127,7 @@ public class Game_2 {
 ///
 ///Question 5
         System.out.println("Question 5: \n");
-        System.out.println("For two points, what's the average height of males and females in the UK?");
+        System.out.println("For two points, what's the average height of males in the UK?");
         System.out.println("A.5ft 6in");
         System.out.println("B.5ft 3in");
         System.out.println("C.5ft 9in\n");

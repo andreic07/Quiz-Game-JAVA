@@ -1,10 +1,8 @@
-sadasdsadas
-dd
+HELP FILE
 
-das
-das
-das
-asd
-asd
-
-asasd
+Option (1) Starts the game.
+Option (2) Option to view your score.
+Option (3) Option to view the scoreboard.
+Option (4) Reset the game (deletes the scoreboard).
+Option (5) Option to open THIS file.
+Option (6) EXIT THE PROGRAM.

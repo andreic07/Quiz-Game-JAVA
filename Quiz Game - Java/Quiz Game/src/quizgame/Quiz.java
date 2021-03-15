@@ -144,6 +144,7 @@ public class Quiz {
                             System.out.println("Your score is: " + FinalScore);
                             System.out.println("\nPress[ENTER] to get back to the main menu.");
                             promptENTER();
+                            return;
 
                         }
 
